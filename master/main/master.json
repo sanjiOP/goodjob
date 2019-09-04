@@ -1,0 +1,27 @@
+{
+
+  "http 服务端口" : "端口",
+  "apiPort" : 8070,
+  "读超时" : "毫秒",
+  "readTimeOut" : 5000,
+  "写超时" : "毫秒",
+  "writeTimeOut"  : 5000,
+
+  "静态页面":"配置",
+  "webRoot" : "./webRoot",
+
+  "etcd配置"  :"etcd",
+  "etcd集群列表":"集群ip:port",
+  "etcdEndPoints"  :["127.0.0.1:2379"],
+  "etcd连接超时":"毫秒",
+  "etcdDialTimeout":5000
+
+
+
+
+
+
+
+
+
+}
